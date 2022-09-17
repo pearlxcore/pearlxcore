@@ -1,4 +1,8 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pearlxcore)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pearlxcore&show_icons=true)  
 
 ## Languages
