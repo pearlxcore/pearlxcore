@@ -1,3 +1,5 @@
+Am currently learning ![Angular](https://img.shields.io/badge/Angular-B52E31.svg?style=flat&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/Typescript-ffffff.svg?style=flat&logo=typescript) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pearlxcore)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pearlxcore&show_icons=true)  
@@ -20,7 +22,7 @@
 
 ## Databases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+<!--![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)-->
 
 ## Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
