@@ -1,3 +1,16 @@
+My daughter is currently battling cancer and has relapsed after month of remission.  
+No more treatment available for her here. Her only remaining treatment option is to join a clinical study overseas.  
+If you’ve found this project useful and would like to support us on this difficult journey, any help would mean a lot.  
+Thank you, and I wish health and happiness to everyone who supports. 🙏  
+
+[Help my daughter's cancer journey](https://give.asia/campaign/help-aya-fight-against-relapsed-cancer)
+
+## ❤️ Support My Work
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R524N7X)  
+
+[![paypal](https://user-images.githubusercontent.com/36906814/102657760-39d1ce00-41b1-11eb-96fe-c10e2d9b3f39.png)](https://www.paypal.com/paypalme/pearlxcoree)  
+
+
 <!---
 Am currently learning ![Angular](https://img.shields.io/badge/Angular-B52E31.svg?style=flat&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/Typescript-ffffff.svg?style=flat&logo=typescript) 
 -->
