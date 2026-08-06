@@ -8,7 +8,7 @@
 Am currently learning ![Angular](https://img.shields.io/badge/Angular-B52E31.svg?style=flat&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/Typescript-ffffff.svg?style=flat&logo=typescript) 
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pearlxcore)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pearlxcore&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=pearlxcore&langs_count=4&theme=transparent)
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=pearlxcore)](https://github.com/stats-organization/github-stats-extended)
 
