@@ -10,7 +10,7 @@ Am currently learning ![Angular](https://img.shields.io/badge/Angular-B52E31.svg
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pearlxcore&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=pearlxcore&langs_count=4&theme=transparent)
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=pearlxcore)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pearlxcore&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=pearlxcore&show_icons=true&include_all_commits=true&theme=transparent)
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
