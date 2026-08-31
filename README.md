@@ -20,22 +20,21 @@
 - [CarRentalAPI](https://github.com/pearlxcore/CarRentalAPI) - Web API for Car Rental System
 - [MyPostcodeApi](https://github.com/pearlxcore/MyPostcodeApi) - Web API for Malaysian postcodes | ⭐ 3
 - [Fuel-Cost-Calculator](https://github.com/pearlxcore/Fuel-Cost-Calculator) - Blazor WebAssembly App
-
 </details>
 
 <details>
 <summary><b>🎮 Console & Gaming Tools (17 repos)</b></summary>
 
-#### PlayStation 2
+{'console_ps2': '#### PlayStation 2', 'console_ps3': '#### PlayStation 3', 'console_ps4': '#### PlayStation 4', 'console_ps5': '#### PlayStation 5', 'console_other': '#### Other Console'}
 - [PCSX2-Game-Cover-Downloader](https://github.com/pearlxcore/PCSX2-Game-Cover-Downloader) - PS2 cover art downloader utility | ⭐ 2
 - [PS2-Manager](https://github.com/pearlxcore/PS2-Manager) - Desktop tool for managing PS2 disc images
 
-#### PlayStation 3
+{'console_ps2': '#### PlayStation 2', 'console_ps3': '#### PlayStation 3', 'console_ps4': '#### PlayStation 4', 'console_ps5': '#### PlayStation 5', 'console_other': '#### Other Console'}
 - [PS3Dec-GUI](https://github.com/pearlxcore/PS3Dec-GUI) - GUI for PS3Dec ISO decryption | ⭐ 2
 - [PS3_UPDATE-Remover](https://github.com/pearlxcore/PS3_UPDATE-Remover) - Remove PS3_UPDATE folder from PS3 backups | ⭐ 1
 - [Simple-Eboot-Resigner](https://github.com/pearlxcore/Simple-Eboot-Resigner) - Resign retail PS3 Eboot to lower firmware | ⭐ 8
 
-#### PlayStation 4
+{'console_ps2': '#### PlayStation 2', 'console_ps3': '#### PlayStation 3', 'console_ps4': '#### PlayStation 4', 'console_ps5': '#### PlayStation 5', 'console_other': '#### Other Console'}
 - [PS4-PKG-Tool](https://github.com/pearlxcore/PS4-PKG-Tool) - Manage and perform operations on PS4 PKG files | ⭐ 455
 - [PS4-Dump-Checker](https://github.com/pearlxcore/PS4-Dump-Checker) - Validate PS4 flash dumps | ⭐ 19
 - [PS4-Dump-Extractor](https://github.com/pearlxcore/PS4-Dump-Extractor) - Extract PS4 dump including sflash0 files | ⭐ 10
@@ -43,12 +42,12 @@
 - [PS4-BT_WIFI-PATCHER](https://github.com/pearlxcore/PS4-BT_WIFI-PATCHER) - Patcher for BT_WIFI (TORUS) firmware | ⭐ 10
 - [sflash0unpack](https://github.com/pearlxcore/sflash0unpack) - Unpacks sflash0 files from PS4 flash dumps | ⭐ 2
 
-#### PlayStation 5
+{'console_ps2': '#### PlayStation 2', 'console_ps3': '#### PlayStation 3', 'console_ps4': '#### PlayStation 4', 'console_ps5': '#### PlayStation 5', 'console_other': '#### Other Console'}
 - [PS5-Firmware-Checker](https://github.com/pearlxcore/PS5-Firmware-Checker) - WinForms app to check & download latest PS5 firmware | ⭐ 15
 - [PS5-Backward-Compatibility-Check](https://github.com/pearlxcore/PS5-Backward-Compatibility-Check) - Check PS5 backward compatibility status | ⭐ 4
 - [PS5TrophyExtract0r](https://github.com/pearlxcore/PS5TrophyExtract0r) - Extract NpTrophy v2 data files from PS5 games
 
-#### Other Console
+{'console_ps2': '#### PlayStation 2', 'console_ps3': '#### PlayStation 3', 'console_ps4': '#### PlayStation 4', 'console_ps5': '#### PlayStation 5', 'console_other': '#### Other Console'}
 - [Playstation-Error-Code-Checker](https://github.com/pearlxcore/Playstation-Error-Code-Checker) - Check error codes of PlayStation console devices | ⭐ 9
 - [CFW2OFW-TO-PKG](https://github.com/pearlxcore/CFW2OFW-TO-PKG) - Convert CFW/OFW games to PKG format | ⭐ 2
 - [OrbisPkgTool](https://github.com/pearlxcore/OrbisPkgTool) - Orbis package tool
@@ -62,7 +61,6 @@
 - [HuaweiAPI](https://github.com/pearlxcore/HuaweiAPI) - Huawei API library | ⭐ 16
 - [Huawei-B618-AIO-Tool](https://github.com/pearlxcore/Huawei-B618-AIO-Tool) - All-in-one tool for Huawei B618 router | ⭐ 9
 - [Huawei-WEBUI-Mod](https://github.com/pearlxcore/Huawei-WEBUI-Mod) - Extract WEBUI from router firmware | ⭐ 9
-
 </details>
 
 <details>
@@ -72,7 +70,6 @@
 - [Safemoon-Tracker](https://github.com/pearlxcore/Safemoon-Tracker) - Crypto tracking application for SafeMoon | ⭐ 2
 - [Simple-Network-Config](https://github.com/pearlxcore/Simple-Network-Config) - Ethernet network configuration toggle utility | ⭐ 3
 - [DarkUI](https://github.com/pearlxcore/DarkUI) - Dark themed control and docking library for .NET WinForms
-
 </details>
 
 <details>
@@ -82,7 +79,6 @@
 - [TouchnGo-Bot](https://github.com/pearlxcore/TouchnGo-Bot) - TouchnGo automation bot | ⭐ 2
 - [Shopee-Collection-Scan](https://github.com/pearlxcore/Shopee-Collection-Scan) - Scan and display upcoming Shopee Payday Sale items
 - [SonyStoreMalaysiaBot](https://github.com/pearlxcore/SonyStoreMalaysiaBot) - Monitor and auto-checkout products at Sony Store Malaysia | ⭐ 1
-
 </details>
 
 <details>
@@ -91,7 +87,6 @@
 - [Selenium-Automation](https://github.com/pearlxcore/Selenium-Automation) - Web automation using Selenium Framework | ⭐ 3
 - [FluentSelenium](https://github.com/pearlxcore/FluentSelenium) - Fluent API wrapper for Selenium WebDriver in C# | ⭐ 3
 - [Yet-Another-Proxy-Tool](https://github.com/pearlxcore/Yet-Another-Proxy-Tool) - Scrape and verify proxies from multiple sources | ⭐ 3
-
 </details>
 
 <details>
@@ -99,7 +94,6 @@
 
 - [JavaBankingApp](https://github.com/pearlxcore/JavaBankingApp) - Banking application (Java newbie project) | ⭐ 2
 - [JavaCarRentalApp](https://github.com/pearlxcore/JavaCarRentalApp) - Car rental application | ⭐ 1
-
 </details>
 
 <details>
@@ -115,7 +109,6 @@
 - [cs-video-courses](https://github.com/pearlxcore/cs-video-courses) - Curated list of Computer Science courses with video lectures
 - [lgdxrobot-cloud](https://github.com/pearlxcore/lgdxrobot-cloud) - Robot management system with focus on flexibility and security
 - [prompt-eng-interactive-tutorial](https://github.com/pearlxcore/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
-
 </details>
 
 ---
