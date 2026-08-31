@@ -113,6 +113,20 @@
 
 ---
 
+## 📊 Repository Statistics
+
+| Category | Count | Top Repo |
+|----------|-------|----------|
+| 🌐 ASP.NET & Web API | 4 | ProjectManagementSystem (⭐ 1) |
+| 🎮 Console & Gaming | 17 | **PS4-PKG-Tool (⭐ 455)** |
+| 📱 Huawei Router | 4 | Huawei-Router-Tool (⭐ 169) |
+| 🖥️ Desktop Applications | 4 | Simple-Network-Config (⭐ 3) |
+| 🤖 Automation & Bots | 4 | **Shopee-Autobuy-Bot (⭐ 97)** |
+| 🧪 Testing & Selenium | 3 | Selenium-Automation / FluentSelenium / Yet-Another-Proxy-Tool (⭐ 3) |
+| ☕ Java Projects | 2 | JavaBankingApp (⭐ 2) |
+| 🔧 Misc & Learning | 10 | ESP8266-Dumper (⭐ 9) |
+| **TOTAL** | **~48 repos** | **Total ⭐ 1,077** |
+
 ## Languages
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/Typescript-ffffff.svg?style=flat&logo=typescript)
