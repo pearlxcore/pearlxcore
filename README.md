@@ -25,29 +25,20 @@
 <details>
 <summary><b>🎮 Console & Gaming Tools (17 repos)</b></summary>
 
-{'console_ps2': '#### PlayStation 2', 'console_ps3': '#### PlayStation 3', 'console_ps4': '#### PlayStation 4', 'console_ps5': '#### PlayStation 5', 'console_other': '#### Other Console'}
 - [PCSX2-Game-Cover-Downloader](https://github.com/pearlxcore/PCSX2-Game-Cover-Downloader) - PS2 cover art downloader utility | ⭐ 2
 - [PS2-Manager](https://github.com/pearlxcore/PS2-Manager) - Desktop tool for managing PS2 disc images
-
-{'console_ps2': '#### PlayStation 2', 'console_ps3': '#### PlayStation 3', 'console_ps4': '#### PlayStation 4', 'console_ps5': '#### PlayStation 5', 'console_other': '#### Other Console'}
 - [PS3Dec-GUI](https://github.com/pearlxcore/PS3Dec-GUI) - GUI for PS3Dec ISO decryption | ⭐ 2
 - [PS3_UPDATE-Remover](https://github.com/pearlxcore/PS3_UPDATE-Remover) - Remove PS3_UPDATE folder from PS3 backups | ⭐ 1
 - [Simple-Eboot-Resigner](https://github.com/pearlxcore/Simple-Eboot-Resigner) - Resign retail PS3 Eboot to lower firmware | ⭐ 8
-
-{'console_ps2': '#### PlayStation 2', 'console_ps3': '#### PlayStation 3', 'console_ps4': '#### PlayStation 4', 'console_ps5': '#### PlayStation 5', 'console_other': '#### Other Console'}
 - [PS4-PKG-Tool](https://github.com/pearlxcore/PS4-PKG-Tool) - Manage and perform operations on PS4 PKG files | ⭐ 455
 - [PS4-Dump-Checker](https://github.com/pearlxcore/PS4-Dump-Checker) - Validate PS4 flash dumps | ⭐ 19
 - [PS4-Dump-Extractor](https://github.com/pearlxcore/PS4-Dump-Extractor) - Extract PS4 dump including sflash0 files | ⭐ 10
 - [PS4-Firmware-Checker](https://github.com/pearlxcore/PS4-Firmware-Checker) - Check latest PS4 firmware versions | ⭐ 13
 - [PS4-BT_WIFI-PATCHER](https://github.com/pearlxcore/PS4-BT_WIFI-PATCHER) - Patcher for BT_WIFI (TORUS) firmware | ⭐ 10
 - [sflash0unpack](https://github.com/pearlxcore/sflash0unpack) - Unpacks sflash0 files from PS4 flash dumps | ⭐ 2
-
-{'console_ps2': '#### PlayStation 2', 'console_ps3': '#### PlayStation 3', 'console_ps4': '#### PlayStation 4', 'console_ps5': '#### PlayStation 5', 'console_other': '#### Other Console'}
 - [PS5-Firmware-Checker](https://github.com/pearlxcore/PS5-Firmware-Checker) - WinForms app to check & download latest PS5 firmware | ⭐ 15
 - [PS5-Backward-Compatibility-Check](https://github.com/pearlxcore/PS5-Backward-Compatibility-Check) - Check PS5 backward compatibility status | ⭐ 4
 - [PS5TrophyExtract0r](https://github.com/pearlxcore/PS5TrophyExtract0r) - Extract NpTrophy v2 data files from PS5 games
-
-{'console_ps2': '#### PlayStation 2', 'console_ps3': '#### PlayStation 3', 'console_ps4': '#### PlayStation 4', 'console_ps5': '#### PlayStation 5', 'console_other': '#### Other Console'}
 - [Playstation-Error-Code-Checker](https://github.com/pearlxcore/Playstation-Error-Code-Checker) - Check error codes of PlayStation console devices | ⭐ 9
 - [CFW2OFW-TO-PKG](https://github.com/pearlxcore/CFW2OFW-TO-PKG) - Convert CFW/OFW games to PKG format | ⭐ 2
 - [OrbisPkgTool](https://github.com/pearlxcore/OrbisPkgTool) - Orbis package tool
@@ -112,20 +103,6 @@
 </details>
 
 ---
-
-## 📊 Repository Statistics
-
-| Category | Count | Top Repo |
-|----------|-------|----------|
-| 🌐 ASP.NET & Web API | 4 | ProjectManagementSystem (⭐ 1) |
-| 🎮 Console & Gaming | 17 | **PS4-PKG-Tool (⭐ 455)** |
-| 📱 Huawei Router | 4 | Huawei-Router-Tool (⭐ 169) |
-| 🖥️ Desktop Applications | 4 | Simple-Network-Config (⭐ 3) |
-| 🤖 Automation & Bots | 4 | **Shopee-Autobuy-Bot (⭐ 97)** |
-| 🧪 Testing & Selenium | 3 | Selenium-Automation / FluentSelenium / Yet-Another-Proxy-Tool (⭐ 3) |
-| ☕ Java Projects | 2 | JavaBankingApp (⭐ 2) |
-| 🔧 Misc & Learning | 10 | ESP8266-Dumper (⭐ 9) |
-| **TOTAL** | **~48 repos** | **Total ⭐ 1,077** |
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
